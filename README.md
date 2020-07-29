@@ -6,5 +6,6 @@ scores and descriptive statistics for the distribution.
 
 **Usage:** python scraper.py 'query'.
 
-'query' here should be replaced by a search term of your choosing. Spaces in search terms
+
+\<query\> here should be replaced by a search term of your choosing. Spaces in search terms
 should be replaced with '%20'.
