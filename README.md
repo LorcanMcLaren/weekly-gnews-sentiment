@@ -1,4 +1,4 @@
-# weekly_gnews_sentiment
+# weekly-gnews-sentiment
 
 This program provides sentiment analysis for up to 100 headlines from Google News over
 the last 7 days for a given search query. Results are displayed as a histogram of polarity
